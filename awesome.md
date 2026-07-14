@@ -60,6 +60,15 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
 
+## Mark unmaintained projects
+
+If a project in your list becomes unmaintained, mark it clearly. You can:
+- Add `(unmaintained)` or `[unmaintained]` next to the project name
+- Move it to a separate "Unmaintained" section at the bottom of the list
+- Add a note in the description
+
+This helps users distinguish between actively maintained and archived projects.
+
 ## Pay attention to grammar
 
 Ensure your list is grammatically correct, typo-free and has no Markdown formatting errors. This should also apply to pull requests.
