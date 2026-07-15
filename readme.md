@@ -433,6 +433,7 @@
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
 - [Open Source AI](https://github.com/alvinreal/awesome-opensource-ai#readme) - Open-source artificial intelligence models, libraries, infrastructure, and developer tools.
 - [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
+- [Open Source AI](https://github.com/alvinreal/awesome-opensource-ai#readme) - Open-source artificial intelligence models, libraries, infrastructure, and developer tools.
 
 ## Big Data
 
