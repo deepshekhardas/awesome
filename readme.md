@@ -168,6 +168,8 @@
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+- [Free LLM APIs](https://github.com/mnfst/awesome-free-llm-apis#readme) - LLM APIs with permanent free tiers for text inference.
+- [AgentOS](https://github.com/Egv2/awesome-agentos#readme) - Tools, frameworks, and platforms for building agentic operating systems.
 
 ## Programming Languages
 
@@ -205,6 +207,7 @@
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
 	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+- [Solidity](https://github.com/solidity-developer/awesome-solidity#readme) - Smart-contract programming language for Ethereum.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -348,6 +351,8 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [CKEditor](https://github.com/ckeditor/awesome-ckeditor#readme) - Framework-agnostic WYSIWYG rich text editor platform.
+- [JavaScript Grids](https://github.com/statico/awesome-javascript-grids#readme) - Spreadsheet and data grid components for displaying tabular data on the web.
 
 ## Back-End Development
 
@@ -384,6 +389,7 @@
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
 - [NGINX Ecosystem](https://github.com/GetPageSpeed/awesome-nginx#readme) - Web server, reverse proxy, and load balancer.
+- [Terraform Compliance](https://github.com/antonbabenko/awesome-terraform-compliance#readme) - Compliance, security, and governance controls for Terraform and OpenTofu infrastructure.
 
 ## Computer Science
 
@@ -425,6 +431,7 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [Open Source AI](https://github.com/alvinreal/awesome-opensource-ai#readme) - Open-source artificial intelligence models, libraries, infrastructure, and developer tools.
 - [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
 
 ## Big Data
@@ -480,7 +487,7 @@
 - [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-- [Chess](https://github.com/hkirat/awesome-chess#readme)
+- [Chess](https://github.com/atamano/awesome-chess#readme) - Strategy board game played on a 64-square chequered board between two players.
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
@@ -593,6 +600,8 @@
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 - [Japanese](https://github.com/yudataguy/awesome-japanese#readme) - The language spoken throughout Japan.
+- [Singapore CS1010](https://github.com/coding-solutions-sg/awesome-singapore-cs1010#readme) - Introductory programming methodology course and its variants at the National University of Singapore.
+- [High School Homeschool](https://github.com/dataindataout/awesome-high-school-homeschool#readme) - Homeschooling at the high school level.
 
 ## Security
 
@@ -625,6 +634,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [Deception](https://github.com/tracebit-com/awesome-deception#readme) - Through deception, misleading attackers with honeypots, honeytokens, and decoys to detect, study, and disrupt intrusions.
 
 ## Content Management Systems
 
@@ -653,6 +663,7 @@
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+- [AI Hardware](https://github.com/ai-hpc/awesome-ai-hardware#readme) - Accelerators and systems for machine-learning workloads.
 
 ## Business
 
@@ -668,6 +679,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Awesome Company as a Service](https://github.com/sandrfunder/awesome-company-as-a-service#readme) - European CaaS platforms, EOR services, invoicing solutions, and remote business tools for location-independent businesses.
 
 ## Work
 
@@ -717,12 +729,15 @@
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+- [Medical Imaging Agents](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents#readme) - Agentic AI systems for interpreting, segmenting, reporting, and evaluating clinical images.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 - [Transgender](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
+- [Hands-on Neuroscience](https://github.com/cYoren/awesome-hands-on-neuroscience#readme) - Practical neuroscience methods explored through executable code, from spiking models to brain imaging.
+- [Scientific AI Tools](https://github.com/Harsh9005/awesome-scientific-ai-tools#readme) - AI-powered tools, MCP servers, and agent skills that support scientific research workflows from literature search to manuscript submission.
 
 ## Events
 
@@ -743,9 +758,11 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
+- [Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#readme) - Testing tools for automated, load, mobile, security, and accessibility testing.
 
 ## Miscellaneous
 
+- [Open Source](https://github.com/hadez8877/awesome-opensource#readme) - A list of powerful open-source projects for web, backend, CLI, and more.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
@@ -875,11 +892,18 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Proposals and standards that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [ai-skill](https://github.com/anomalyco/ai-skill) - AI skill discovery and management system.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 - [Free BYOK Models](https://github.com/velo4705/awesome-free-byok-models#readme) - LLM models with their free and replenishable API providers for text inference.
+- [Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme) - Settling in South Korea as a foreigner, covering visas, housing, healthcare, taxes, work, and culture.
+- [Arabic Tools](https://github.com/abdessamadbettal/awesome-arabic-tools) - Tools, libraries, and resources for Arabic software development and localization.
+- [Agentic Engineering](https://github.com/jordimas/awesome-agentic-engineering#readme) - Practices and tooling for AI agent-driven software development.
+- [Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules#readme) - Configuration files that customize Cursor's AI-assisted coding behavior.
+- [SRE Agents](https://github.com/last9/awesome-sre-agents#readme) - AI agents that automate site reliability engineering and DevOps operations.
+- [Feature Flags](https://github.com/tech-and-finance/awesome-feature-flags#readme) - Runtime configuration mechanisms for decoupling deployment from release, gradual rollouts, and kill switches.
 
 ## Related
 
