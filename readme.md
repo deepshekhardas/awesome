@@ -740,9 +740,11 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
+- [Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#readme) - Testing tools for automated, load, mobile, security, and accessibility testing.
 
 ## Miscellaneous
 
+- [Open Source](https://github.com/hadez8877/awesome-opensource#readme) - A list of powerful open-source projects for web, backend, CLI, and more.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
