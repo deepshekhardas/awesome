@@ -622,6 +622,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [EU AI Act](https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme) - EU regulation governing the development and deployment of artificial intelligence systems.
 
 ## Content Management Systems
 
@@ -665,6 +666,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Trade Shows](https://github.com/LensmorOfficial/awesome-trade-shows#readme) - Trade shows, exhibitions, and event tech tools for B2B professionals worldwide.
 
 ## Work
 
@@ -884,3 +886,4 @@
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+- [Context Awesome](https://github.com/bh-rat/context-awesome) - Access all awesome lists in your AI agent.
