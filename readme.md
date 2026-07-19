@@ -590,6 +590,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Japanese](https://github.com/yudataguy/awesome-japanese#readme) - The language spoken throughout Japan.
 
 ## Security
 
@@ -622,6 +623,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [AI Agent Governance](https://github.com/permission-protocol/awesome-ai-agent-governance#readme) - Frameworks, tools, standards, and research for governing and authorizing autonomous AI agents.
 
 ## Content Management Systems
 
@@ -876,6 +878,10 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [Free BYOK Models](https://github.com/velo4705/awesome-free-byok-models#readme) - LLM models with their free and replenishable API providers for text inference.
+- [PDF](https://github.com/OneOffTech/awesome-pdf#readme) - Portable Document Format for cross-platform document representation.
+- [3D Drawing](https://github.com/n1ckfg/awesome-3d-drawing#readme) - Using motion-tracked controllers in XR to create art and animation, combined with ML processing and rendering.
+- [AI Tools](https://github.com/aliammari1/awesome-ai-tools#readme) - Software applications that leverage machine learning and computer vision to automate tasks across text, code, image, audio, and video.
 
 ## Related
 
