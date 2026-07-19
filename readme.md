@@ -348,6 +348,7 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [Cesium](https://github.com/reed-soul/awesome-cesium#readme) - Open-source JavaScript library for 3D globes and maps with geospatial data streaming.
 
 ## Back-End Development
 
@@ -470,6 +471,7 @@
 - [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Helix](https://github.com/npupko/awesome-helix#readme) - Post-modern modal text editor with built-in LSP and tree-sitter support.
 
 ## Gaming
 
@@ -650,6 +652,7 @@
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+- [RISC-V](https://github.com/suryakantamangaraj/awesome-riscv#readme) - RISC-V is a popular architecture for microcontrollers and embedded systems.
 
 ## Business
 
