@@ -198,6 +198,8 @@
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+	- [Python Rs](https://github.com/ritwiktiwari/awesome-python-rs#readme) - Python tools, libraries, and frameworks with Rust under the hood.
+	- [Rust Python](https://github.com/rp-libs/awesome-rust-python#readme) - Python libraries and tools powered by Rust.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
@@ -248,6 +250,7 @@
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 - [F#](https://github.com/fsprojects/awesome-fsharp#readme) - A .NET-based language with focus on functional programming.
+- [Zig](https://github.com/zigcc/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 <br>
 <hr>
@@ -383,6 +386,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [BYOC](https://github.com/nuonco/awesome-byoc) - Bring Your Own Cloud (BYOC) is a deployment model where software is vendor-managed within the customer's cloud infrastructure.
 
 ## Computer Science
 
@@ -396,8 +400,11 @@
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
 	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+	- [AI Evaluation](https://github.com/Vvkmnn/awesome-ai-eval#readme) - Measuring reliability, accuracy, and safety of LLMs, RAG pipelines, and AI agents.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
 	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+	- [LLM Papers](https://github.com/puneet-chandna/awesome-LLM-papers#readme) - Seminal and breakthrough papers in Large Language Models.
+
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
@@ -407,6 +414,7 @@
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [Human Activity Recognition](https://github.com/Leo-Cyberautonomy/awesome-human-activity-recognition#readme) - Datasets, frameworks, and benchmarks for recognizing human actions from video, skeleton, and wearable sensors.
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
@@ -436,6 +444,7 @@
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
+- [Rclone](https://github.com/awesome-rclone/awesome-rclone#readme)
 
 ## Theory
 
@@ -572,6 +581,7 @@
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 - [Audio Over IP](https://github.com/Mo-way/awesome-aoip#readme) - Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
+- [OBS](https://github.com/Pralhad-Nasane/awesome-obs#readme) - Open-source software for video recording and live streaming.
 
 ## Learn
 
@@ -590,6 +600,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Total Learning Architecture (TLA)](https://github.com/tla-ecosystem/awesome-tla#readme) - Standards-based infrastructure for tracking learning activities and managing competencies.
 
 ## Security
 
@@ -622,6 +633,8 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [LOL](https://github.com/danzek/awesome-lol#readme) - Living off the Land (LOL) attack techniques, tools, and defender resources.
+- [Hacking Training](https://github.com/Smithech/awesome-hacking-training#readme) - Training your hacking skills safely and legally.
 
 ## Content Management Systems
 
@@ -650,6 +663,7 @@
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+- [Space Robotics](https://github.com/AndrejOrsula/awesome-space-robotics#readme) - Robotic systems designed for space environments.
 
 ## Business
 
@@ -665,6 +679,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Free Nonprofits](https://github.com/athman3/awesome-free-nonprofits#readme) - Free and discounted technology programs for nonprofit organizations.
 
 ## Work
 
@@ -720,6 +735,7 @@
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 - [Transgender](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
+- [Evidence Synthesis Tools](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis#readme) - Systematic reviews, meta-analysis, and evidence synthesis.
 
 ## Events
 
@@ -740,6 +756,7 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
+- [Performance Engineering](https://github.com/be-next/awesome-performance-engineering#readme) - Observability and performance testing for reliable distributed systems.
 
 ## Miscellaneous
 
@@ -871,11 +888,17 @@
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Proposals and standards that define and enhance software, languages, and related technologies.
+- [Agent Services](https://github.com/farol-team/awesome-agent-services#readme) - Services, APIs, and infrastructure built for AI agents — not humans.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [Animal Care](https://github.com/omkar-foss/awesome-animal-care#readme) - Caring for dogs, cats, fishes, horses, parrots, and others.
+- [Vibecoded Apps](https://github.com/levz0r/awesome-vibecoded-apps#readme) - An AI-assisted development approach where developers describe intent in natural language and collaborate with AI to generate code.
+- [Software Design](https://github.com/QDenka/awesome-software-design#readme) - Organizing and structuring software through patterns, decisions, and verified design rules.
+- [Agent Skills](https://github.com/skillmatic-ai/awesome-agent-skills#readme) - A simple, open standard for giving AI agents new capabilities and expertise.
+- [Scientific Image Analysis](https://github.com/EPFL-Center-for-Imaging/awesome-scientific-image-analysis#readme) - Processing, visualizing, and analyzing scientific images.
 
 ## Related
 
