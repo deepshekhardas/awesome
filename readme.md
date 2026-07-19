@@ -168,6 +168,7 @@
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+- [AgentOS](https://github.com/Egv2/awesome-agentos#readme) - Tools, frameworks, and platforms for building agentic operating systems.
 
 ## Programming Languages
 
@@ -383,6 +384,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [NGINX Ecosystem](https://github.com/GetPageSpeed/awesome-nginx#readme) - Web server, reverse proxy, and load balancer.
 
 ## Computer Science
 
@@ -876,6 +878,7 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [Living in Korea](https://github.com/seoulstart/awesome-living-in-korea#readme) - Settling in South Korea as a foreigner, covering visas, housing, healthcare, taxes, work, and culture.
 
 ## Related
 
