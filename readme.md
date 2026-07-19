@@ -424,6 +424,7 @@
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
 - [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
+- [Loop Engineering](https://github.com/ChaoYue0307/awesome-loop-engineering#readme) - Designing recurring AI-agent systems that discover work, delegate to agents, verify results, persist state, and decide next actions.
 
 ## Big Data
 
@@ -622,6 +623,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [LLM Attacks](https://github.com/martinholovsky/awesome-llm-attacks#readme) - Adversarial techniques targeting large language models and generative AI systems.
 
 ## Content Management Systems
 
