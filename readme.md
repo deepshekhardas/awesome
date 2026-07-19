@@ -117,6 +117,7 @@
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+- [NativeScript](https://github.com/dyazincahya/awesome-nativescript#readme) - Framework for building native mobile apps using JavaScript.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 - Linux
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
@@ -168,6 +169,7 @@
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+- [Symbian](https://github.com/hstsethi/awesome-symbian#readme) - Discontinued mobile OS for ARM processors, popular in the early 2000s.
 
 ## Programming Languages
 
@@ -424,6 +426,7 @@
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
 - [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
+- [Azure OpenAI & Copilot](https://github.com/kimtth/awesome-azure-openai-copilot#readme) - Microsoft's cloud platform for deploying OpenAI models and integrating AI assistants.
 
 ## Big Data
 
@@ -526,6 +529,7 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 - [WezTerm](https://github.com/michaelbrusegard/awesome-wezterm#readme) - Powerful cross-platform terminal emulator.
+- [Terminals AI](https://github.com/BNLNPPS/awesome-terminals-ai#readme) - AI-powered tools for terminal and command-line workflows.
 
 ## Entertainment
 
@@ -665,6 +669,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Product Engineer](https://github.com/marcelkalveram/awesome-product-engineer#readme) - Bridging the craft of software development with product thinking and user engagement.
 
 ## Work
 
@@ -789,6 +794,7 @@
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+- [Drug Discovery](https://github.com/yboulaamane/awesome-drug-discovery#readme) - Computational and AI-driven methods for identifying and developing new drug candidates.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
@@ -871,11 +877,16 @@
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Proposals and standards that define and enhance software, languages, and related technologies.
+- [Agent Failures](https://github.com/vectara/awesome-agent-failures#readme) - AI Agent failure modes.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
+- [Coffee](https://github.com/beargruug/awesome-coffee#readme) - Find the coffee beans and brewing methods that suit you.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [PDF](https://github.com/OneOffTech/awesome-pdf#readme) - Portable Document Format for cross-platform document representation.
+- [3D Drawing](https://github.com/n1ckfg/awesome-3d-drawing#readme) - Using motion-tracked controllers in XR to create art and animation, combined with ML processing and rendering.
+- [AI Tools](https://github.com/aliammari1/awesome-ai-tools#readme) - Software applications that leverage machine learning and computer vision to automate tasks across text, code, image, audio, and video.
 
 ## Related
 
